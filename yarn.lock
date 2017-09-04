@@ -3484,6 +3484,10 @@ react-devtools-core@^2.0.8:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
+react-native-tts@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/react-native-tts/-/react-native-tts-1.4.0.tgz#a086680453f0ee426b75284ad4f18179c5a05248"
+
 react-native@^0.44.0:
   version "0.44.0"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.44.0.tgz#06427a30053f2d555c60fe0b9afcc6c778db09de"
